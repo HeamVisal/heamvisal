@@ -11,6 +11,7 @@
   <a href="https://github.com/heamvisal"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/heam-visal-ab21493a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/heamvisal"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="./CV-V1.pdf"><img src="https://img.shields.io/badge/VIEW_CV-D9AD55?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV"></a>
 </p>
 
 <a href="https://github.com/heamvisal">
@@ -23,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2300c2ff" width="22" height="22" align="center"> About Me
 
 I am a student at the **Institute of Technology of Cambodia (ITC)**, specializing in Data Science. Passionate about building data-driven systems, machine learning pipelines, and low-level embedded hardware, I enjoy bridging the gap between hardware integration and scalable software architectures.
 
@@ -35,7 +36,7 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 
 ---
 
-## Tech Stack & Skills
+## <img src="https://api.iconify.design/lucide/code.svg?color=%2300c2ff" width="22" height="22" align="center"> Tech Stack & Skills
 
 <h3 align="left">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22">&nbsp; 
@@ -71,8 +72,10 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3B5526?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 
-* **Methodologies:** Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Automated Data Extraction, Web Scraping, Machine Learning, Deep Learning
+* **Methodologies:** Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Automated Data Extraction, Web Scraping, Natural Language Processing (NLP), Hidden Markov Models (HMM), Viterbi Decoding, Machine Learning, Deep Learning
 
 ### <img src="https://api.iconify.design/lucide/cpu.svg?color=%2300c2ff" width="20" height="20" align="center"> Embedded Systems & IoT
 
@@ -92,10 +95,12 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography_(Fernet)-555555?style=flat-square&logo=letsencrypt&logoColor=white)
 
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300c2ff" width="20" height="20" align="center"> Development & Productivity Tools
 
 **IDE / Editors / Envs:**
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
@@ -108,22 +113,29 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 
 **Productivity:**
-![MS Word](https://img.shields.io/badge/MS_Word-185ABD?style=flat-square&logo=microsoft-word&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/microsoftword/185ABD" width="48" height="48" alt="Microsoft Word" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/107C41" width="48" height="48" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="Microsoft PowerPoint" />
+</p>
 
 ---
 
-## Featured Projects
+## <img src="https://api.iconify.design/lucide/folder-git.svg?color=%2300c2ff" width="22" height="22" align="center"> Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **Harbor Property Rent Analysis** | Web scraping and machine learning project to collect rental property listings, perform data cleaning/EDA, and apply predictive models for rent estimation. | Python, Selenium, BeautifulSoup, Pandas, Scikit-learn, XGBoost |
-| **CardScan using ESP8266** | RFID-based attendance/access system using ESP8266 and RC522 RFID reader. Integrates with Google Sheets for real-time logging via REST APIs and Google Apps Script. | Arduino, ESP8266, RFID, REST API, Google Apps Script |
+| [**Harbor Property Rent Analysis**](https://github.com/HeamVisal/Harbor-Property-Rent-Analysis) | Web scraping, data cleaning, and machine learning pipeline to analyze rental properties in Phnom Penh, predicting prices with a Random Forest model. | Python, Selenium, BeautifulSoup, Pandas, Scikit-Learn |
+| [**CardScan using ESP8266**](https://github.com/HeamVisal/CardScan-using-ESP8266) | IoT-based RFID attendance system using RC522 and ESP8266, logging scans in real-time to Google Sheets via Google Apps Script. | C++ (Arduino), ESP8266, RFID (RC522), Google Sheets, REST API |
+| [**Event Management System**](https://github.com/HeamVisal/Event-management-System) | Comprehensive Django web application for registration, ticketing, and managing event listings with user-friendly dashboards. | Python, Django, Tailwind CSS, SQLite, Pillow |
+| [**ECommerce Store**](https://github.com/HeamVisal/ECommerceStore-with-Django) | Dynamic Django e-commerce platform with catalog browsing, item searching, detail views, and a session-based shopping cart. | Python, Django, Tailwind CSS, SQLite |
+| [**BG Secure Banking**](https://github.com/HeamVisal/BG-Secure-Banking) | Secure banking simulation with XML-RPC communication, Fernet symmetric encryption, role-based access control, and transaction monitoring. | Python, Flask, XML-RPC, Cryptography, SQLite, Docker |
+| [**HMM POS Tagger**](https://github.com/HeamVisal/hmm-pos-tagger-brown-corpus) | Natural Language Processing (NLP) Part-of-Speech tagger using Hidden Markov Models (HMM) and the Viterbi algorithm trained on the Brown Corpus. | Python, Flask, NLTK, HTML/CSS |
 
 ---
 
-## Currently Learning
+## <img src="https://api.iconify.design/lucide/book-open.svg?color=%2300c2ff" width="22" height="22" align="center"> Currently Learning
 
 | Area | Technologies |
 |------|-------------|
@@ -133,7 +145,15 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 
 ---
 
-## GitHub Activity
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300c2ff" width="22" height="22" align="center"> Education
+
+| Degree / Education | Institution | Specialization | Completion |
+| --- | --- | --- | --- |
+| **Bachelor of Engineering** (Ongoing) | Institute of Technology of Cambodia (ITC) | Data Science | Expected 2027 |
+
+---
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2300c2ff" width="22" height="22" align="center"> GitHub Activity
 
 <div align="center">
 
@@ -144,7 +164,7 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 
 ---
 
-## Let's Connect
+## <img src="https://api.iconify.design/lucide/send.svg?color=%2300c2ff" width="22" height="22" align="center"> Let's Connect
 
 <div align="center">
 
@@ -152,6 +172,7 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 <a href="https://github.com/heamvisal"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/heam-visal-ab21493a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/heamvisal"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="./CV-V1.pdf"><img src="https://img.shields.io/badge/RESUME-D9AD55?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 <br><br>
 
 **Phnom Penh, Cambodia**
