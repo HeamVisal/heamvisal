@@ -114,11 +114,9 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 
 **Productivity:**
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftword/185ABD" width="48" height="48" alt="Microsoft Word" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/107C41" width="48" height="48" alt="Microsoft Excel" />
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="Microsoft PowerPoint" />
-</p>
+![MS Word](https://img.shields.io/badge/MS_Word-185ABD?style=flat-square&logo=microsoftword&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-107C41?style=flat-square&logo=microsoftexcel&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
 ---
 
