@@ -25,13 +25,13 @@
 
 ## About Me
 
-I am a student at the **Institute of Technology of Cambodia (ITC)**, specializing in Data Science and Software Development. Passionate about building data-driven systems, machine learning pipelines, and low-level embedded hardware, I enjoy bridging the gap between hardware integration and scalable software architectures.
+I am a student at the **Institute of Technology of Cambodia (ITC)**, specializing in Data Science. Passionate about building data-driven systems, machine learning pipelines, and low-level embedded hardware, I enjoy bridging the gap between hardware integration and scalable software architectures.
 
-- 🎓 Studying at **Institute of Technology of Cambodia (ITC)**
-- 🌏 Based in **Phnom Penh, Cambodia**
-- 🎯 Aspiring **Data Scientist** and **Software Developer**
-- 🔭 Working on applied ML, data extraction pipelines, and IoT automation
-- 💬 Open to internships, research collaborations, and open-source contributions
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300c2ff" width="16" height="16" align="center"> Studying at **Institute of Technology of Cambodia (ITC)**
+- <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2300c2ff" width="16" height="16" align="center"> Based in **Phnom Penh, Cambodia**
+- <img src="https://api.iconify.design/lucide/target.svg?color=%2300c2ff" width="16" height="16" align="center"> Aspiring **Data Scientist** and **Software Developer**
+- <img src="https://api.iconify.design/lucide/code-2.svg?color=%2300c2ff" width="16" height="16" align="center"> Working on applied ML, data extraction pipelines, and IoT automation
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2300c2ff" width="16" height="16" align="center"> Open to internships, research collaborations, and open-source contributions
 
 ---
 
@@ -42,9 +42,7 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 <i>Core Skills & Technologies</i>
 </h3>
 
-<details open>
-<summary><b>Programming & Web Development</b></summary>
-<br>
+### <img src="https://api.iconify.design/lucide/code-2.svg?color=%2300c2ff" width="20" height="20" align="center"> Programming & Web Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -60,11 +58,7 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Data Science & Machine Learning</b></summary>
-<br>
+### <img src="https://api.iconify.design/lucide/brain.svg?color=%2300c2ff" width="20" height="20" align="center"> Data Science & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -80,22 +74,14 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 
 * **Methodologies:** Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Automated Data Extraction, Web Scraping, Machine Learning, Deep Learning
 
-</details>
-
-<details>
-<summary><b>Embedded Systems & IoT</b></summary>
-<br>
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%2300c2ff" width="20" height="20" align="center"> Embedded Systems & IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 * **Hardware & Integration:** RFID (RC522), Sensor Integration, Embedded Web Server, REST API Integration, IoT Development
 
-</details>
-
-<details>
-<summary><b>DevOps, Databases & Tools</b></summary>
-<br>
+### <img src="https://api.iconify.design/lucide/database.svg?color=%2300c2ff" width="20" height="20" align="center"> Databases, DevOps & Operating Systems
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -107,10 +93,24 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)
 
-* **IDE / Editors:** VS Code, PyCharm, Google Colab, Code::Blocks, Miniconda, Arduino IDE, DB Browser for SQLite, SMS32v50, IdealC, Antigravity
-* **Productivity:** Microsoft Word, Microsoft Excel, Microsoft PowerPoint
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300c2ff" width="20" height="20" align="center"> Development & Productivity Tools
 
-</details>
+**IDE / Editors / Envs:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code_Blocks-8B0000?style=flat-square&logo=codeblocks&logoColor=white)
+![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![DB Browser for SQLite](https://img.shields.io/badge/DB_Browser-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SMS32v50](https://img.shields.io/badge/SMS32v50-555555?style=flat-square&logo=assembly&logoColor=white)
+![IdealC](https://img.shields.io/badge/IdealC-4B8BBE?style=flat-square&logo=c&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+
+**Productivity:**
+![MS Word](https://img.shields.io/badge/MS_Word-185ABD?style=flat-square&logo=microsoft-word&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
