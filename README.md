@@ -48,14 +48,13 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Assembly Language](https://img.shields.io/badge/Assembly_Language-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
@@ -87,15 +86,12 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ### <img src="https://api.iconify.design/lucide/database.svg?color=%2300c2ff" width="20" height="20" align="center"> Databases, DevOps & Operating Systems
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography_(Fernet)-555555?style=flat-square&logo=letsencrypt&logoColor=white)
 
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300c2ff" width="20" height="20" align="center"> Development & Productivity Tools
 
@@ -109,10 +105,9 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![DB Browser for SQLite](https://img.shields.io/badge/DB_Browser-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SMS32v50](https://img.shields.io/badge/SMS32v50-555555?style=flat-square&logo=assembly&logoColor=white)
-![IdealC](https://img.shields.io/badge/IdealC-4B8BBE?style=flat-square&logo=c&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 
-**Productivity:**
+**Productivity (Intermediate):**
 
 ![MS Word](https://img.shields.io/badge/MS_Word-185ABD?style=flat-square&logo=microsoftword&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-107C41?style=flat-square&logo=microsoftexcel&logoColor=white)
