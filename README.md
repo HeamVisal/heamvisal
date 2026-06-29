@@ -165,7 +165,6 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 <a href="https://github.com/heamvisal"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/heam-visal-ab21493a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/heamvisal"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="./CV-V1.pdf"><img src="https://img.shields.io/badge/RESUME-D9AD55?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 <br><br>
 
 **Phnom Penh, Cambodia**
