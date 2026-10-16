@@ -30,7 +30,7 @@ I am a student at the **Institute of Technology of Cambodia (ITC)**, specializin
 
 - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300c2ff" width="16" height="16" align="center"> Studying at **Institute of Technology of Cambodia (ITC)**
 - <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2300c2ff" width="16" height="16" align="center"> Based in **Phnom Penh, Cambodia**
-- <img src="https://api.iconify.design/lucide/target.svg?color=%2300c2ff" width="16" height="16" align="center"> Aspiring **Data Scientist** and **Software Developer**
+- <img src="https://api.iconify.design/lucide/target.svg?color=%2300c2ff" width="16" height="16" align="center"> Aspiring **Data Scientist** 
 - <img src="https://api.iconify.design/lucide/code-2.svg?color=%2300c2ff" width="16" height="16" align="center"> Working on applied ML, data extraction pipelines, and IoT automation
 - <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2300c2ff" width="16" height="16" align="center"> Open to internships, research collaborations, and open-source contributions
 
