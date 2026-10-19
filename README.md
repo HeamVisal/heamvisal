@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm HEAM VISAL <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
 
-<p align="center">Aspiring Data Scientist & Software Developer | Student at Institute of Technology of Cambodia (ITC)</p>
+<p align="center">Aspiring Data Scientist | Student at Institute of Technology of Cambodia (ITC)</p>
 
 <p align="center">
   <a href="mailto:heamvisal1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0C827C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
